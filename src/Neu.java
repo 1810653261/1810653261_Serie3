@@ -17,7 +17,7 @@ public class Neu {
         System.out.println(name);
     }
 
-    static void printAge(int age)
+    public static void printAge(int age)
     {
         System.out.println(age);
     }
